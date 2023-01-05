@@ -35,7 +35,7 @@ The accuracy score is a tool to measure the performance of a model. It is calcul
 
 ### ClusterCentroids Undersampling
 
-![ClusterCentroids_Undersampling_Results.png](Resources/ClusterCentroids_Undersampling_Results.png)
+![ClusterCentroids_Undersampling_Results.png](https://github.com/SThieshen/Credit_Risk_Analysis/blob/main/Development/ClusterCentroids_Undersampling_Results.png)
 
 * Balanced Accuracy Score is 0.5103601371413837
 * Precision Score for High-Risk is 0.01
