@@ -1,9 +1,9 @@
-# Credit Risk Analysis with Supervised Machine Learning: Predicting Credit Risk in Python
+# Credit Risk Analysis with Supervised Machine Learning
 
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis to utilize different techniques of machine learning to train and evaluate models with unbalanced classes with respect to the issue of credit card risk as generally high-quality loans outnumber risky loans. The six different techniques used are RandomOverSampler, SMOTE Oversampling, ClusterCentroids Undersampling, SMOTEENN Combination, BalancedRandomForestClassifier, and EasyEnsembleClassifier to predict credit risk. The original raw data includes 144 columns and 115,675 observations although variables consisting of only null values will be dropped. The conclusion will include an evaluation of the performance of these models.
+The purpose of this analysis is to utilize different techniques of machine learning to train and evaluate models with unbalanced classes with respect to the issue of credit card risk as generally high-quality loans outnumber risky loans. The six different techniques used are RandomOverSampler, SMOTE Oversampling, ClusterCentroids Undersampling, SMOTEENN Combination, BalancedRandomForestClassifier, and EasyEnsembleClassifier to predict credit risk. The original raw data includes 144 columns and 115,675 observations although variables consisting of only null values will be dropped. The conclusion will include an evaluation of the performance of these models.
 
 ## Results
 
