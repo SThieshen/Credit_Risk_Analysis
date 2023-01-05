@@ -71,7 +71,7 @@ The accuracy score is a tool to measure the performance of a model. It is calcul
 
 ### EasyEnsembleClassifier
 
-![EasyEnsembleClassifier_Results.png](Resources/EasyEnsembleClassifier_Results.png)
+![EasyEnsembleClassifier_Results.png](https://github.com/SThieshen/Credit_Risk_Analysis/blob/main/Development/EasyEnsembleClassifier_Results.png)
 
 * Balanced Accuracy Score is 0.9293205140256962
 * Precision Score for High-Risk is 0.07
