@@ -11,7 +11,7 @@ The accuracy score is a tool to measure the performance of a model. It is calcul
 
 ### RandomOverSampler
 
-![RandomOverSampler_Results.png](Resources/RandomOverSampler_Results.png)
+![https://github.com/SThieshen/Credit_Risk_Analysis/blob/main/Development/RandomOverSampler_Results.png]
 
 * Balanced Accuracy Score is 0.6249984891886339
 * Precision Score for High-Risk is 0.01
