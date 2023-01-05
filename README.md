@@ -59,7 +59,7 @@ The accuracy score is a tool to measure the performance of a model. It is calcul
 
 ### BalancedRandomForestClassifier
 
-![BalancedRandomForestClassifier_Results.png](Resources/BalancedRandomForestClassifier_Results.png)
+![BalancedRandomForestClassifier_Results.png](https://github.com/SThieshen/Credit_Risk_Analysis/blob/main/Development/BalancedRandomForestClassifier_Results.png)
 
 * Balanced Accuracy Score is 0.6570535621279525
 * Precision Score for High-Risk is 0.60
