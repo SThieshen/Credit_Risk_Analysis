@@ -23,7 +23,7 @@ The accuracy score is a tool to measure the performance of a model. It is calcul
 
 ### SMOTE Oversampling
 
-![SMOTE_Oversampling_Results.png](Resources/SMOTE_Oversampling_Results.png)
+![SMOTE_Oversampling_Results.png](https://github.com/SThieshen/Credit_Risk_Analysis/blob/main/Development/SMOTE_Oversampling_Results.png)
 
 * Balanced Accuracy Score is 0.6512584051472337
 * Precision Score for High-Risk is 0.01
